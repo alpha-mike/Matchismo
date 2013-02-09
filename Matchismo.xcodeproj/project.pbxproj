@@ -83,8 +83,6 @@
 		CB9651C616C6EF7E00835EA9 /* Matchismo */ = {
 			isa = PBXGroup;
 			children = (
-				CB9651CF16C6EF7E00835EA9 /* CardGameAppDelegate.h */,
-				CB9651D016C6EF7E00835EA9 /* CardGameAppDelegate.m */,
 				CB9651D816C6EF7E00835EA9 /* MainStoryboard.storyboard */,
 				CB9651DB16C6EF7E00835EA9 /* CardGameViewController.h */,
 				CB9651DC16C6EF7E00835EA9 /* CardGameViewController.m */,
@@ -96,6 +94,8 @@
 		CB9651C716C6EF7E00835EA9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CB9651CF16C6EF7E00835EA9 /* CardGameAppDelegate.h */,
+				CB9651D016C6EF7E00835EA9 /* CardGameAppDelegate.m */,
 				CB9651C816C6EF7E00835EA9 /* Matchismo-Info.plist */,
 				CB9651C916C6EF7E00835EA9 /* InfoPlist.strings */,
 				CB9651CC16C6EF7E00835EA9 /* main.m */,
